@@ -37,4 +37,5 @@ The goal of Fur-Converter is to provide a lightweight, fast, and user-friendly a
 ---
 *Made with 💜 by Fur-Cord*
 ---
-<img width="640" height="640" alt="icon" src="https://github.com/user-attachments/assets/1a6d2148-690b-4c01-8759-fdcc5e04bbd4" />
+<img width="500" height="500" alt="icon" src="https://github.com/user-attachments/assets/1dae1c29-7fcc-4330-8943-fd620015538c" />
+
