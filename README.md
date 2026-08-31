@@ -35,4 +35,6 @@ The format configuration is separated into its own `config.py` file using `Forma
 
 The goal of Fur-Converter is to provide a lightweight, fast, and user-friendly audio conversion tool that makes batch audio conversion as simple as selecting a format and choosing a folder.
 ---
-*Made with 💜 by Fur-cord*
+*Made with 💜 by Fur-Cord*
+---
+<img width="640" height="640" alt="icon" src="https://github.com/user-attachments/assets/1a6d2148-690b-4c01-8759-fdcc5e04bbd4" />
